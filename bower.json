@@ -1,0 +1,20 @@
+{
+  "name": "modals",
+  "authors": [
+    "Absner <absrraniel@gmail.com>"
+  ],
+  "description": "jobs",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-beta"
+  }
+}
