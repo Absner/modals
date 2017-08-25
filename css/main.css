@@ -1,0 +1,130 @@
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center{
+    text-align: center;
+}
+.in-line{
+    display: inline-flex;
+}
+.modal-content{
+
+    border-radius: 20px;
+}
+
+.modal-content > .modal-header {
+    border-bottom: none;
+    display: block
+        
+
+}
+
+.modal-content > .modal-footer {
+    border-top: none;
+    background-color: whitesmoke;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.modal-content > .modal-header > .modal-title {
+    margin-top: 10px;
+    font-size: 2em;
+    color: #575757;
+    font-weight: bold;
+
+}
+.modal-open .modal {
+    background-color: transparent;
+}
+
+.input-1{
+    height: 50px;
+    border: solid 1px dimgray;
+    text-align: center
+}
+.input-1:focus{
+    border: solid 1px dimgray;
+
+}
+
+.right-logo{
+    margin-top: 15px;
+    height: 22px;
+    width: 23px;
+
+}
+.modal-content > .modal-header > .subtitle{
+    color: #575757;
+    text-indent: 1cm;
+}
+/*Texto color */
+.text-color1{
+    color: gray;
+}
+
+
+/*Botones */
+.btn-1{
+    background-color: #ff7140;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    height: 50px;
+    -webkit-box-shadow: 5px 5px 22px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 5px 5px 22px 0px rgba(0,0,0,0.2);
+    box-shadow: 5px 5px 22px 0px rgba(0,0,0,0.2);
+    font-size: 1.5em
+}
+
+.btn-2{
+    background-color: #14a09c;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    height: 50px;
+    -webkit-box-shadow: 5px 5px 22px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 5px 5px 22px 0px rgba(0,0,0,0.2);
+    box-shadow: 5px 5px 22px 0px rgba(0,0,0,0.2);
+    font-size: 1.5em
+}
+
+.btn-3{
+    background-color: #80ba3f;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    height: 50px;
+    -webkit-box-shadow: 5px 5px 22px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 5px 5px 22px 0px rgba(0,0,0,0.2);
+    box-shadow: 5px 5px 22px 0px rgba(0,0,0,0.2);
+    font-size: 1.5em
+}
+/*margin*/
+.mt20{
+    margin-top: 20px;
+}
+
+.textarea{
+    border: solid 1px dimgray;
+}
+
+textarea:hover{
+    border: solid 1px dimgray;
+}
+
+.font-1{
+    font-size: 1.5em;
+    color: #575757;
+    font-weight: bold;
+}
+.font-2{
+    color: #575757;
+    font-size: 1.2em;
+
+}
+
+
