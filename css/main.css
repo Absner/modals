@@ -127,4 +127,19 @@ textarea:hover{
 
 }
 
+span > a {
+    color: gray;
+    border-bottom: 1px solid gray;
+}
+a:link{
+    text-decoration: none;
+}
+span > a:hover {
+    color: gray;
+
+}
+span > a:visited {
+    color: gray;
+    border-bottom: 1px solid gray;
+}
 
